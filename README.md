@@ -27,6 +27,6 @@
            y       1.00      0.94      0.97        50
            z       1.00      1.00      1.00        50
 
-    accuracy                           0.95      1300
-   macro avg       0.95      0.95      0.95      1300
-weighted avg       0.95      0.95      0.95      1300
+        accuracy                       0.95      1300
+       macro avg   0.95      0.95      0.95      1300
+    weighted avg   0.95      0.95      0.95      1300
